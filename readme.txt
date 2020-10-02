@@ -1,6 +1,11 @@
 Classifying Radio Signals from Space is divided into following tasks:
 
 The data set is available in images, the actual radio signal (time series data) is trainsformed to 2D spectrogram images & the data set is downloaded from the seti.org site. 
+There are four classes of signals in the dataset:
+  1. Squiggle
+  2. Narrowband
+  3. Narrowband DRD
+  4. Noise
 
 Task 1:
   Import essential modules and helper functions from NumPy, Matplotlib, and Keras.
