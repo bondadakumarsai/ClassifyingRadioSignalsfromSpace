@@ -1,5 +1,7 @@
 Classifying Radio Signals from Space is divided into following tasks:
 
+The data set is available in images, the actual radio signal (time series data) is trainsformed to 2D spectrogram images & the data set is downloaded from the seti.org site. 
+
 Task 1:
   Import essential modules and helper functions from NumPy, Matplotlib, and Keras.
 Task 2: Load and Preprocess SETI Data
