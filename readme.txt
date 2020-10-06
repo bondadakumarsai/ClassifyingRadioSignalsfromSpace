@@ -1,6 +1,6 @@
 Classifying Radio Signals from Space is divided into following tasks:
 
-The data set is available in images, the actual radio signal (time series data) is trainsformed to 2D spectrogram images & the data set is downloaded from the seti.org site. 
+The data set is available in images, the actual radio signal (time series data) is transformed to 2D spectrogram images & the data set is downloaded from the seti.org site. 
 There are four classes of signals in the dataset:
   1. Squiggle
   2. Narrowband
